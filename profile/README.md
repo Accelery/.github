@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![img](./Accelery-Horiz-couleur.png)
+![img](profile/Accelery-Horiz-couleur.png)
